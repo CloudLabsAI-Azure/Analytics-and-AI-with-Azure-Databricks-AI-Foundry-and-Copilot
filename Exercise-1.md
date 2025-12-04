@@ -4,17 +4,15 @@ In this exercise, you will build a Lakehouse environment using Azure Databricks 
 
 ### Task 1.1: Set Up Azure Databricks Environment and load data into Unity Catalog
 
-1. Click the following link to open the Databricks workspace: **<inject key="Databricks1" />**
-
-2. On the Databricks workspace page, select the **Catalog**, click on **zava_unity_catalog**, and then choose **schema-1957817**.
+1. On the Databricks workspace page, select the **Catalog**, click on **zava_unity_catalog**, and then choose **schema-1957817**.
 
    ![Task-2.3_1.png](./media/up1.png)
 
-3. From the left navigation, select **Workspace**, expand **Workspace**,**Shared** click on **Analytics with ADB** folder, and click on **01.1-DLT-fraud-detection-SQL**.
+2. From the left navigation, select **Workspace**, expand **Workspace**,**Shared** click on **Analytics with ADB** folder, and click on **01.1-DLT-fraud-detection-SQL**.
 
     ![Task-2.3_1.png](./media/up2.png)
 
-4. Explore the notebook review the code cells, markdown explanations, and outputs to understand the workflow and logic.
+3. Explore the notebook review the code cells, markdown explanations, and outputs to understand the workflow and logic.
 
     ![Task-2.3_1.png](./media/notebook.png)
 

@@ -32,7 +32,7 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
 6. In the URL field enter **<inject key="Databricks2" />**
 
-7. Now, select **Service principal** from 'Authentication kind' dropdown box, and enter the following details.
+7. Now, select **Service principal** from **Authentication kind** dropdown box, and enter the following details.
 
 - Tenant ID: <inject key="Tenant ID" />
 - Service principal client ID: <inject key="Service principal client ID" />
