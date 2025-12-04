@@ -1,4 +1,4 @@
-# Ignite25-LAB335-analytics-and-ai-with-azure-databricks-ai-foundry-and-copilot
+# Analytics and AI with Azure Databricks AI Foundry and Copilot
 **The estimated time to complete this lab is 50-60 minutes.**
 
 Azure Databricks in Action: Unified Al & Analytics Across Microsoft
