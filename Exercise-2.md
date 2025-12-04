@@ -41,7 +41,6 @@ In this exercise, you will integrate Azure Databricks Genie with Azure AI Foundr
 
     ![databricks](./media/Gini1.png)
 
-   ![databricks](./media/ig2.png)
 
 ### Task 2.2: Use Agent Created Inside AI Foundry with Custom Web App
 
