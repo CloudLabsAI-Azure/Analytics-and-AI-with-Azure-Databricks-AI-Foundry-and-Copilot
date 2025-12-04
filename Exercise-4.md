@@ -42,16 +42,16 @@ Responds to queries using data from your Databricks workspace.
 
  ![](./media/ex4iu.png)
 
-8. In the Server Hostname field type: **adb-689745566023860.0.azuredatabricks.net**
+8. In the Server Hostname field type: **adb-486601822035519.19.azuredatabricks.net**
 
 ```
-adb-689745566023860.0.azuredatabricks.net
+adb-486601822035519.19.azuredatabricks.net
 ```
 
-9. In the HTTP path field type: **/sql/1.0/warehouses/30423e4b958bb27b** and click on **Create**.
+9. In the HTTP path field type: **/sql/1.0/warehouses/e25d6b8097a8852d** and click on **Create**.
 
 ```
-/sql/1.0/warehouses/30423e4b958bb27b
+/sql/1.0/warehouses/e25d6b8097a8852d
 ```
 
 ![](./media/ex4t1i7.png)
