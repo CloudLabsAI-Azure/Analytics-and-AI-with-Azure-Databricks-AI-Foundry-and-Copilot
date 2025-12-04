@@ -79,38 +79,36 @@
 
 ## Getting Started with Lab
 
-1. Open an InPrivate browsing window and paste the CloudLabs link.
+1. In the new window, navigate to **https://portal.azure.com**.
 
-2. In the new window, navigate to **https://portal.azure.com**.
-
-3. On the Microsoft Azure browser tab, paste the provided Username:**<inject key="AzureAdUserEmail" />** to Sign in and click **Next** 
+2. On the Microsoft Azure browser tab, paste the provided Username:**<inject key="AzureAdUserEmail" />** to Sign in and click **Next** 
 
    ![](./media/gs3.png)
 
-4. Now paste the following Password:**<inject key="AzureAdUserPassword" />** and click on Sign in.
+3. Now paste the following Password:**<inject key="AzureAdUserPassword" />** and click on Sign in.
 
    ![](./media/gs4.png)
 
-5. Search for **Azure Databricks** and select it.
+4. Search for **Azure Databricks** and select it.
 
    ![](./media/gs5.png)
 
 
-6. Click on the **adb-fabric-9msyp2f** from the result.
+5. Click on the **adb-fabric-9msyp2f** from the result.
 
    ![](./media/gs6.png)
 
-7. Scroll down and select **Launch Workspace** to open the Databricks workspace.
+6. Scroll down and select **Launch Workspace** to open the Databricks workspace.
 
    ![](./media/gs7.png)
 
-8. Click on **Continue with Microsoft Entra ID**.
+7. Click on **Continue with Microsoft Entra ID**.
 
    ![](./media/gs2.png)
 
    > **Note:** If you encounter any permission-related issues, please refresh the page 2-3 times. The page should load correctly afterward.
 
-9. Now, click on Next from the lower right corner to move on to the next page.
+8. Now, click on Next from the lower right corner to move on to the next page.
 
    ![](./media/step1.png)
 
