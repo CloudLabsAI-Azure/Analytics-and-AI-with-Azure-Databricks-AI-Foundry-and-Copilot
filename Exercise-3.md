@@ -22,7 +22,7 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
    ![](./media/wst31.png)
 
-4. In the **New item** window, scroll down and click on **Microsoft Azure Databricks catalog**.
+4. In the **New item** window, scroll down and click on **Mirrored Azure Databricks catalog**.
 
 ![Task-2.3_2.png](./media/Task-2.3_2.png)
 
