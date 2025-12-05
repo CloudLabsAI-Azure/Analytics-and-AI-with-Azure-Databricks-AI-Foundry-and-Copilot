@@ -64,15 +64,19 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
 ### Task 3.2: Create a semantic model in Direct Lake mode and use Power BI to visualize and generate 
 
-1. Select **Ignite-25** workspace from left navigation pane.
+1. Click on New semantic model.
 
-   ![](./media/ig1i.png)
+    ![](./media/_signin.png)
 
-2. Click on the filter option in the top-right corner then select the semantic model.
+2. Paste the semantic model name as **fraud_detection_<inject key= "DeploymentID" enableCopy="false"/>**, search ``gold_transactions_static``, select it and then click on Confirm.
 
-   ![](./media/ex3i11.png)
+   ![](./media/semantic1i.png)
 
-3. Click on the Ellipses (3 dots) next to **fraud_detection** Semantic Model to load the dropdown menu. Select **Create report** from the dropdown.
+3. Wait for the semantic model to be created, then select the workspace from the left menu.
+
+   ![](./media/semantic1iu.png)
+
+3. Click on the Ellipses (3 dots) next to **fraud_detection_<inject key= "DeploymentID" enableCopy="false"/>** Semantic Model to load the dropdown menu. Select **Create report** from the dropdown.
 
    ![](./media/semantic2.png)
 
