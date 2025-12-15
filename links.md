@@ -94,7 +94,7 @@
    ![](./media/gs5.png)
 
 
-5. Click on the **adb-fabric-9msyp2f** from the result.
+5. Click on the **adb-fabric-rdvtknu** from the result.
 
    ![](./media/gs6.png)
 
